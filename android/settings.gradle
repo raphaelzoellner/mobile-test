@@ -1,0 +1,3 @@
+rootProject.name = 'vlek.mobile'
+
+include ':app'
